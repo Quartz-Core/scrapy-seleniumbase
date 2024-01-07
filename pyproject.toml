@@ -1,0 +1,13 @@
+[project]
+name = "scrapy-seleniumbase"
+version = "0.0.1"
+authors = [
+  { name = "Quartz-Core"},
+]
+description = "Scrapy middleware to handle javascript pages using seleniumbase driver."
+requires-python = ">=3.8"
+license = { text = "WTFPL" }
+readme = "README.md"
+[project.urls]
+Homepage = "https://github.com/Quartz-Core/scrapy-seleniumbase"
+Issues = "https://github.com/Quartz-Core/scrapy-seleniumbase/issue"
