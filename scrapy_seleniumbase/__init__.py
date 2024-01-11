@@ -1,2 +1,2 @@
 from .middlewares import SeleniumBaseMiddleware
-from .requests import SeleniumBaseRequest 
+from .request import SeleniumBaseRequest 

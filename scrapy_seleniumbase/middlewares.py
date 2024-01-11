@@ -5,7 +5,7 @@ from scrapy.exceptions import NotConfigured
 from scrapy.http import HtmlResponse
 from selenium.webdriver.support.ui import WebDriverWait
 
-from .requests import SeleniumBaseRequest
+from .request import SeleniumBaseRequest
 
 
 class SeleniumBaseMiddleware:
